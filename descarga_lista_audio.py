@@ -33,4 +33,4 @@ for video in lista_videos:
     
     str_yt.first().download() #descarga primer stream
 
-print("Videos descargados!!!!")
+print("Audios descargados!!!!")
